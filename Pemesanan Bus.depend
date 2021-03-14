@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1586322152 source:f:\matkul\sem 2\prak. alpro\tubes\program\pemesanan bus\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<windows.h>
-
